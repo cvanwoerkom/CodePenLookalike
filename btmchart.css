@@ -1,0 +1,42 @@
+.boxes {
+    display: grid;
+    background-color: #36383F;
+    color: #fff; 
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+    font-weight: 700;
+}
+.Teams {
+    grid-row: 1;
+    grid-column: 1;
+    justify-self: center;
+    text-align: center;
+    padding: 20px 0px;
+    width: 315.75px;
+    border-right: thin solid #9ca0b1;
+}
+.Education {
+    grid-row: 1;
+    grid-column: 2;
+    text-align: center;
+    justify-self: center;
+    padding: 20px 0px;
+    width: 315.75px;
+    border-right: thin solid #9ca0b1;
+}
+.Privacy {
+    grid-row: 1;
+    grid-column: 3;
+    justify-self: center;
+    text-align: center;
+    padding: 20px 0px;
+    width: 315.75px;
+    border-right: thin solid #9ca0b1;
+}
+.Writing {
+    grid-row: 1;
+    grid-column: 4;
+    justify-self: center;
+    text-align: center;
+    padding: 20px 0px;
+    width: 315.75px;
+}

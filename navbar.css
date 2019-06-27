@@ -1,0 +1,58 @@
+.nav-bar {
+    background-color: black;
+    margin: 0px;
+    justify-content: space-between;
+    display: flex;
+    overflow-x: hidden;
+    max-width: 100%;
+}
+.text-logo {
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    width: 141.2px;
+    padding-top: 37px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    padding-right: 40px;
+}
+.Explore {
+    color: yellow;
+    margin-bottom: 0px; 
+    font-family: Tahoma,Sans-Serif;
+    display: block;
+    font-weight: 400;
+    padding-top: 7px;
+}
+.text {
+    color: white;
+    font-family: Telefon, sans-serif;
+    font-weight: 700;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+.text1, .text2, .text3 {
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.text4 {
+    margin-top: 5px;
+}
+.text-logo {
+    display: flex;
+    justify-content: space-between;
+}
+.spark {
+    color: grey;
+    font-family: Telefon, sans-serif;
+    margin-top: 36px;
+    margin-left: 10px;
+}
+.sparkdown > #down {
+    color: grey;
+    margin-top: 53px;
+    font-size: 1em;
+    margin-left: 13px;
+}

@@ -1,0 +1,104 @@
+.btn {
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+    font-weight: 400;
+    -webkit-appearance: none;
+    font-size: 1rem;
+    text-shadow: none;
+    line-height: 1.2;
+    display: inline-block;
+    padding: 10px 16px;
+    margin: 0 10px 0 0;
+    position: relative;
+    border-radius: 4px;
+    border: 3px solid transparent;
+    background: #444857;
+    color: white;
+    cursor: pointer;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none ;
+    text-align: center;
+    font-weight: normal;
+    height: 75%;
+    align-items: center;
+}
+.btmbtns > .buttonbigboldgreen {
+    margin-bottom: 20px;
+}
+body { margin:-10px;}
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    height: 59px;
+}
+.btn:active {
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.4);
+}
+.search {
+   font-size: 1.5em;
+    color: white;
+    padding: 10px 16px;
+    margin: 0 10px 0 0;
+}
+.downarrow {
+    color: #47cf73;
+    padding: 1px 0px 1px 5px;
+}
+.btn2 > .btn {
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+    font-size: 1rem;
+    text-shadow: none;
+    line-height: 1.2;
+    display: inline-block;
+    padding: 10px 16px;
+    margin: 0 10px 0 0;
+    position: relative;
+    border-radius: 4px;
+    border: 3px solid transparent;
+    background: #444857;
+    color: white;
+    cursor: pointer;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: none ;
+    text-align: center;
+    font-weight: normal;
+    height: 44.25px;
+    align-items: center;
+}
+.btn2 > .btn > #text {
+    margin-top: -10px;
+}
+.btn > #text{
+  padding-bottom: 10px;
+}
+#search {
+    color: grey;
+}
+.buttonbigboldgreen {
+    background: #47cf73;
+    color: #000;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+    font-size: 1.25rem;
+    padding: 10px 16px;
+    margin: 0 10px 0 20px;
+    border-radius: 4px;
+    border: 3px solid transparent;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: 700;
+}
+.learnmore {
+    background: black;
+    color: #fff;
+    margin: 0 10px 30px 0;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+    font-size: 1.25rem;
+    padding: 10px 16px;
+    border-radius: 4px;
+    border: 3px solid transparent;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: 700;
+}
